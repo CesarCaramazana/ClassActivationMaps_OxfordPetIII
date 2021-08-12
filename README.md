@@ -2,7 +2,7 @@
 
 This notebook is my personal experimentation with Class Activation Maps (https://arxiv.org/abs/1512.04150), using the Oxford III Pet dataset (available here: https://www.kaggle.com/tanlikesmath/the-oxfordiiit-pet-dataset) for the evaluation.
 
-**Disclaimer: this notebook is yet to be finished. So far, the model, the get_cam function and the training loop have been defined.*.
+*Disclaimer: this notebook is yet to be finished. So far, the model, the get_cam function and the training loop have been implemented.*.
 
 Class Activation Maps are a way of understanding what a Convolutional Neural Network "sees" in order to perform image classification.  They are very useful to analyze where the attention is placed and which are the key regions that help the network discriminate among classes. 
 
